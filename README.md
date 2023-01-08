@@ -8,6 +8,7 @@ To clone the repository (including the gotorch submodule:)
 
 ```shell
 git clone https://github.com/Kautenja/gotorch-example --recursive
+cd gotorch-example
 ```
 
 To download libtorch and compile the gotorch wrapper:
