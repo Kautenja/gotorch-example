@@ -1,6 +1,8 @@
 # GoTorch Example
 
-This project contains an example of using [gotorch][gotorch].
+This project contains an example of using [gotorch][gotorch]. Please ensure
+that you have followed the GoTorch installation instructions before using
+this project.
 
 ## Usage
 
@@ -9,12 +11,6 @@ To clone the repository (including the gotorch submodule:)
 ```shell
 git clone https://github.com/Kautenja/gotorch-example --recursive
 cd gotorch-example
-```
-
-To download libtorch and compile the gotorch wrapper:
-
-```shell
-./pkg/gotorch/build.sh
 ```
 
 To run the example script
