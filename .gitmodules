@@ -1,3 +1,0 @@
-[submodule "pkg/gotorch"]
-	path = pkg/gotorch
-	url = https://github.com/Kautenja/gotorch
