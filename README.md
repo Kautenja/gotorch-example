@@ -6,13 +6,6 @@ this project.
 
 ## Usage
 
-To clone the repository (including the gotorch submodule:)
-
-```shell
-git clone https://github.com/Kautenja/gotorch-example --recursive
-cd gotorch-example
-```
-
 To run the example script
 
 ```shell
