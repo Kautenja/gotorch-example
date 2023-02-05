@@ -1,5 +1,5 @@
-github.com/Kautenja/gotorch v1.11.0-0.0.0 h1:cbOCIO7U3KfuxkWmWQ1fKpamLD9TM2dE9wBxbNaAVig=
-github.com/Kautenja/gotorch v1.11.0-0.0.0/go.mod h1:sIJY+zyZ0otEIP/Zt+I/8mRrzeWQA9fB0g5grVhOkyU=
+github.com/Kautenja/gotorch v1.11.0-0.1.0 h1:Ls0WTuwh1U6f1K0u6z9j9cGFy4qaGkF/oTN0EmM+szk=
+github.com/Kautenja/gotorch v1.11.0-0.1.0/go.mod h1:sIJY+zyZ0otEIP/Zt+I/8mRrzeWQA9fB0g5grVhOkyU=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
